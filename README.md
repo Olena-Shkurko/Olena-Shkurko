@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Olena]  
+# 👋 Hi there! I'm Olena  
 ## 📊 Data Analyst | Power BI | SQL | Python | A/B Testing
 
 I’m a data analyst passionate about transforming raw data into actionable insights and impactful visualizations. I enjoy digging into data, finding patterns, and telling compelling stories through dashboards and reports.
